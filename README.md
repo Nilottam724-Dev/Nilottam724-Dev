@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @Nilottam724-Dev
+- 👀 I’m interested in Software development
+- 🌱 Developing apps for Android in the Samsung Galaxy Store
+- 💞️ NO COLLAB
+- 📫 I will post my opensource code and apk here
+- 📲 I like to port apps and custom roms to several devices
+- 🎵💜 BTS IS MY LIFELINE
+- 🆕 Joined in 2021
+- Check out my YouTube channel - https://www.youtube.com/channel/UCYIfQlniwYoRIr2c6dwx3jQ
+- I would love to contribute my open-source apps or source code, I was only making closed source apps but now I am making the switch to open-source :D
+- Stay Tuned
